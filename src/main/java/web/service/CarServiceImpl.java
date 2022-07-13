@@ -15,7 +15,7 @@ public class CarServiceImpl implements CarService {
             carList = new ArrayList<>();
             carList.add(new Car("Mazda", "6", "black"));
             carList.add(new Car("Volvo", "S", "gray"));
-            carList.add(new Car("Marcedes", "R", "blue"));
+            carList.add(new Car("Mercedes", "R", "blue"));
             carList.add(new Car("BMW", "320i", "dark"));
             carList.add(new Car("Opel", "Astra", "white"));
         }
